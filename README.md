@@ -1,4 +1,4 @@
-# redis-demo
+# Redis demonstration with Spring Boot (+ Redis cli commands)
 
 
 #### Used technologies:
