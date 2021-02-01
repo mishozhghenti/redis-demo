@@ -1,7 +1,7 @@
 # Redis demonstration with Spring Boot (+ Redis cli commands)
 
 
-#### Used technologies:
+# Used technologies:
 * Java 1.8
 * Spring Framework (Spring Boot)
 * Redis
